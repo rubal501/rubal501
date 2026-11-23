@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there | Holis 👋
+
+I am a master's student in applied mathematics based in Mexico City, focusing on computational biology, specifically Systems Biology. I am also interested in scientific machine learning and conventional machine learning. As a personal project, I am working to promote Typst as a popular tool within the Mexican mathematical community.
+
+
 
 <!--
 **rubal501/rubal501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
